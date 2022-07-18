@@ -1,0 +1,11 @@
+{
+    "name": "open-graph-utils",
+    "version": "0.0.0",
+    "description": "Helpers for building Open Graph metadata tags.",
+    "author": "Clay Dunston <dunstontc@gmail.com>",
+    "license": "MIT",
+    "scripts": {},
+    "keywords": [
+        "Open Graph Protocol"
+    ]
+}
